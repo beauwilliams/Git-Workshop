@@ -1,12 +1,8 @@
-# Codedoc Boilerplate
+# Git Workshop
 
-Modify `docs/md/index.md` to change the contents of this page. This will be your starting
-page on your GitHub Pages site.
+!(sshot)[https://miro.medium.com/max/2400/1*mtsk3fQ_BRemFidhkel3dA.png]
 
-To get started, run `codedoc check` to see which configurations you most probably need to change,
-and get instructions on how to change them. Also don't forget to check the official docs of **CODEDOC**.
+# WIP Content to come!
 
-> :Buttons
-> > :Button label=Official Docs, url=https://codedoc.cc
 
 > :ToCPrevNext
