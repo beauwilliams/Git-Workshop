@@ -11,6 +11,10 @@
 > > :Button label=Installation Guide, url=https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 
+### Next register for a GitHub account, with GitHub you can host your projects online and collaborate with other developers on open source software.
+
+> :Buttons
+> > :Button label=Sign Up, url=https://github.com/join
 
 
 

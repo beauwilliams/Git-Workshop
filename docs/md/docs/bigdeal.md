@@ -7,7 +7,7 @@ Git is decentralised. It uses a different server-client architecture. Every deve
 
 ## Caveats
 
-Git however naturally is slower than a centralised system such as SVN. Large files and binaries are too big for Git.
+Git however naturally is naturally unable to handle bigger files compared to a centralised system such as SVN. Large source files and binaries are too big for Git.
 
 ## Benefits
 
