@@ -15,9 +15,14 @@ export const config = /*#__PURE__*/configuration({
     }
   },
   misc: {
-    github: {
-      user: 'beauwilliams',               // --> your github username (where your repo is hosted)
-      repo: 'Git-Workshop',               // --> your github repo name
-    }
+      github: {
+          user: 'beauwilliams',               // --> your github username (where your repo is hosted)
+          repo: 'Git-Workshop',               // --> your github repo name
+          action: 'Star',             // --> action of the GitHub button
+          count: true,               // --> whether to show the `count` on the GitHub button
+          large: true,                // --> whether to show a `large` GitHub button
+          standardIcon: true,        // --> whether to use the GitHub icon on the GitHub button or use an action specific icon
+
+      }
   },
 });
