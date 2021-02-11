@@ -1,12 +1,15 @@
+#### Content
+
 [Home](/)
 [Backstory](/docs/backstory)
-[But Y Tho](/docs/bigdeal)
+[Why Git?](/docs/bigdeal)
 [Setting Up](/docs/setup)
 [Commit Templates](/docs/template)
-[Markdown Cheat Sheet](/docs/cheat-sheet)
-[Code Features](/docs/code-features)
+<!-- [Markdown Cheat Sheet](/docs/cheat-sheet) -->
+<!-- [Code Features](/docs/code-features) -->
 
 <br><br>
 
-To add links to your other documents, simply
-modify contents of `docs/md/_toc.md`.
+#### Developer Student Clubs
+
+![logo2.png](https://i.ibb.co/K7YhQVb/logo-1-copy.png)
