@@ -74,6 +74,11 @@
       "name": "gatherFootnotes",
       "filename": "/Users/admin/Git_Downloads/Git-Workshop/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
       "hash": "5xFAbqMxS8wYvq2ovZU9+g=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/Users/admin/Git_Downloads/Git-Workshop/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "Fg5dv0hi3ZWBFfE7Oe4ppQ=="
     }
   ],
   "components": [

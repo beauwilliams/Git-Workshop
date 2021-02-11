@@ -1,4 +1,6 @@
 [Home](/)
+[Backstory](/docs/backstory)
+[Commit Templates](/docs/template)
 [Markdown Cheat Sheet](/docs/cheat-sheet)
 [Code Features](/docs/code-features)
 
