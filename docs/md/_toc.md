@@ -1,6 +1,7 @@
 [Home](/)
 [Backstory](/docs/backstory)
 [But Y Tho](/docs/bigdeal)
+[Setting Up](/docs/setup)
 [Commit Templates](/docs/template)
 [Markdown Cheat Sheet](/docs/cheat-sheet)
 [Code Features](/docs/code-features)
