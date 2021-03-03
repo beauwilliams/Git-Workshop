@@ -234,9 +234,9 @@ can use `DarkLight` component:
 You can add _previous_ and _next_ buttons to your pages like this:
 
 ```markdown
-> :ToCPrevNext
+> :ToCPrevNext prev-label=...Previously, next-label=Up Next...
 ```
 
 Which would then look like this:
 
-> :ToCPrevNext
+> :ToCPrevNext prev-label=...Previously, next-label=Up Next...

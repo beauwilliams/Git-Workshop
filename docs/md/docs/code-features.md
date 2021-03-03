@@ -140,4 +140,4 @@ Similar syntax styles to hints are supported for references as well:
 ```
 
 
-> :ToCPrevNext
+> :ToCPrevNext prev-label=...Previously, next-label=Up Next...

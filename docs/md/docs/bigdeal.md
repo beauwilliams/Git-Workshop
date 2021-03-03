@@ -32,4 +32,4 @@ This is why Git is such a popular open source protocol, amongst other reasons to
 - Popular nowadays
 - Open Source 💝
 
-> :ToCPrevNext
+> :ToCPrevNext prev-label=...Previously, next-label=Up Next...

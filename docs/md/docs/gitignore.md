@@ -1,0 +1,3 @@
+# git ignore file
+
+> :ToCPrevNext prev-label=...Previously, next-label=Up Next...

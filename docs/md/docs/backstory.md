@@ -8,4 +8,4 @@ Today Git is the by far the most popular distributed versioning system software.
 
 ![linus](https://i2.wp.com/www.rankred.com/wp-content/uploads/2020/05/Torvalds.jpg?resize=716%2C403&ssl=1)
 
-> :ToCPrevNext
+> :ToCPrevNext prev-label=...Previously, next-label=Up Next...
