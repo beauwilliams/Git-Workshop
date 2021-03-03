@@ -4,7 +4,7 @@
 [Backstory](/docs/backstory)
 [Why Git?](/docs/bigdeal)
 [Setting Up](/docs/setup)
-[GitHub](/docs/GitHub)
+[GitHub](/docs/github)
 [GitHub CLI](/docs/hub)
 [Your GitHub Profile](/docs/githubprofile)
 [GitHub Sites](/docs/githubsites)
