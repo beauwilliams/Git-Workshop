@@ -39,7 +39,7 @@ git l
 
 ## Easily undo the last changes you made with a new git undo command
 ```bash
-git config --global alias.undo reset HEAD~1 --mixed
+git config --global alias.undo 'reset HEAD~1 --mixed'
 ```
 
 ## View your last commit
